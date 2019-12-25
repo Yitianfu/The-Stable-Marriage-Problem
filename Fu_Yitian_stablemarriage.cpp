@@ -1,13 +1,7 @@
 //
 //  main.cpp
 //  Stable Marriage Problem
-//
-//  Created by Ramavarapu Sreenivas on 8/29/14.
-//  Copyright (c) 2014 Ramavarapu Sreenivas. All rights reserved.
-//
-// Renren Deng
-// renrend2@illinois.edu
-// HW 4
+
 
 #include <iostream>
 #include <vector>
